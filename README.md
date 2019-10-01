@@ -5,4 +5,4 @@ This project is part of a Web Development course I took. This part focuses speci
 
 The goal was to create a clone of Patatap.com, a website where each keyboard letter that user presses has a specific animation and sound assigned to it.
 
-It features heavy JavaScript coding, along with the methods already present in both libraries.
+It features a lot of JavaScript coding, along with the methods already present in both libraries.
