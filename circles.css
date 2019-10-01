@@ -1,0 +1,10 @@
+canvas {
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+
+body, html { /* this margin and height is to make sure that the canvas will also take up all the space */
+    margin: 0;
+    height: 100%;
+}
