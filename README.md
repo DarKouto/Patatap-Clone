@@ -2,6 +2,8 @@
 
 https://darkouto.github.io/Patatap-Clone/circles.html
 
+** PRESS ANY OF THE ALPHABET KEYS ON THE KEYBOARD TO SEE WHAT HAPPENS **
+
 A clone of the patatap site made with Paper.js and Howler.js
 
 This project is part of a Web Development course I took. This part focuses specifically on using other JavaScript libraries besides jQuery, specifically Paper.js and Howler.js.
