@@ -2,7 +2,7 @@
 
 https://darkouto.github.io/Patatap-Clone/circles.html
 
-** PRESS ANY OF THE ALPHABET KEYS ON THE KEYBOARD TO SEE WHAT HAPPENS **
+** PRESS ANY OF THE ALPHABET KEYS ON THE KEYBOARD TO SEE WHAT HAPPENS. SOUND ON **
 
 A clone of the patatap site made with Paper.js and Howler.js
 
